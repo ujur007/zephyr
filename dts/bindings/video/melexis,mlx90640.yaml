@@ -1,0 +1,8 @@
+# Copyright (c) 2021 Antmicro <www.antmicro.com>
+# SPDX-License-Identifier: Apache-2.0
+
+description: mlx90640 thermal imaging sensor
+
+compatible: "melexis,mlx90640"
+
+include: i2c-device.yaml
